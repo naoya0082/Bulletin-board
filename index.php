@@ -11,7 +11,7 @@
 <body>
 <header>
     <h1>なおやん掲示板</h1>
-    <a class="post" href="input.html"><strong>新規投稿</strong></a>
+    <a class="post" href="index.html"><strong>新規投稿</strong></a>
 </header>
 <div class="container">
     <?php
